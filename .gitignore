@@ -1,0 +1,9 @@
+GLR/
+__pycache__/
+docs/
+.env
+env/
+venv/
+uploads/
+logs/
+.env.example

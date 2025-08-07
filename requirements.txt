@@ -1,0 +1,11 @@
+streamlit 
+flask 
+werkzeug
+docxtpl 
+pdfplumber
+openai
+pytesseract
+python-dotenv
+gunicorn
+
+#streamlit python-docx-template pdfplumber openai
