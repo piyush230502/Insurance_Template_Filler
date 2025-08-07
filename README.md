@@ -107,7 +107,7 @@ To deploy it to Railway, we need to:
 5. Railway will automatically detect the configuration files I've created and deploy your application.
 
 ## DEMO 
-![DEMO](https://drive.google.com/file/d/14XzZUmshXXQchVz_0Ax6XH16h_c_yMap/preview)
+[DEMO](https://drive.google.com/file/d/14XzZUmshXXQchVz_0Ax6XH16h_c_yMap/preview)
 
 
 ## 🤝 Contributing
